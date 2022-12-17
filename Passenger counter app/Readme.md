@@ -1,4 +1,4 @@
-[# metroticket-counter.netlify.app
+[
 metroticket-counter.netlify.app
 ](https://metroticket-counter.netlify.app/)
 
